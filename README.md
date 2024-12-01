@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Amitdhawale09
-- 👀 I’m interested in backend and frontend.
-- 🌱 I’m currently learning python and angular.
-- 💞️ I’m looking to collaborate on open source.
-- 📫 How to reach me ......
+Hi, this is just a practice for the new begineer ..
+I just tried to execute the code..
+
 
 <!---
 Amitdhawale09/Amitdhawale09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
