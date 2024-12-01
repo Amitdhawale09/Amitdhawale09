@@ -16,6 +16,9 @@ def main():
     print("Current offset is:",fd.tell());
     data=fd.read();
     print(data);
+
+
+    print(data)
 if __name__=="__main__":
     main();
 
